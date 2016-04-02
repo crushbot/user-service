@@ -19,6 +19,7 @@
     "eslint": "^2.5.3",
     "eslint-config-airbnb": "^6.2.0",
     "gcloud": "0.29.0",
+    "gcloud-node-datastore-utils": "0.0.6",
     "koa": "next",
     "koa-bodyparser": "next",
     "koa-compress": "next",

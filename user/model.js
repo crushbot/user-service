@@ -9,7 +9,7 @@ import {
   read,
   remove,
   list,
-} from '../utils/datastore';
+} from 'gcloud-node-datastore-utils';
 
 const ds = gcloud.datastore.dataset(config.gcloud);
 const kind = 'User';
